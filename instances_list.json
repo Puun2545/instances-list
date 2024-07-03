@@ -1,13 +1,13 @@
 {
-    "instances1" : "instances1",
-    "instances2" : "instances2",
-    "instances3" : "instances3",
-    "instances4" : "instances4",
-    "instances5" : "instances5",
-    "instances6" : "instances6",
-    "instances7" : "instances7",
-    "instances8" : "instances8",
-    "instances9" : "instances9",
-    "instances10" : "instances10"
-
+    "patch_group": "2024-07-01",
+    "instances": [
+      {
+        "instance_id": "i-1234567890abcdef0",
+        "instance_name": "webserver1"
+      },
+      {
+        "instance_id": "i-0abcdef1234567890",
+        "instance_name": "webserver2"
+      }
+    ]
 }
