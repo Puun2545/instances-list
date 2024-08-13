@@ -1,13 +1,13 @@
 {
-    "patch_group": "2024-07-01",
+    "patch_group": "2024-08-01",
     "instances": [
       {
-        "instance_id": "i-06503e18dc78daeca",
-        "instance_name": "My Services Server 01"
+        "instance_id": "i-01d3bebee6f591b76",
+        "instance_name": "nexus server"
       },
       {
-        "instance_id": "i-0e31120db26990a10",
-        "instance_name": "My Services Server 02"
+        "instance_id": "i-00e10867e9fe1a879",
+        "instance_name": "keycloak server"
       }
     ]
 }
